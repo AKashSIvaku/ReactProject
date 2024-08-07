@@ -11,7 +11,7 @@ function Msg()
   console.log(myarray);
   alert("Check the console output!");
 }
-const Akash.s=()=>{
+const Akash=()=>{
   return(
     <div>
 
