@@ -19,7 +19,7 @@ function Msg()
  console.log(status);
  alert("Check the console output!");
 }
-const Ajay1=()=>{
+const Akash1=()=>{
   return(
     <div>
 
@@ -27,4 +27,4 @@ const Ajay1=()=>{
     </div>
   )
 }
-export default Ajay1;
+export default Akash1;
