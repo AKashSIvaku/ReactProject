@@ -8,7 +8,7 @@ function comp()
  const object2={name:"Kabil"};
  console.log(object1 === object2);
 }
-const Ajay1=()=>{
+const Akash1=()=>{
   return(
     <div>
 
@@ -16,4 +16,4 @@ const Ajay1=()=>{
     </div>
   )
 }
-export default Ajay1;
+export default Akash1;
